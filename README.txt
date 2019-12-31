@@ -1,6 +1,6 @@
 No plugins are required to run our project.
 
-We have UML diagrams in the phase2/Game/UML Diagrams directory. Due to the complexity of parts of our code, we used
+We have UML diagrams in the Game/UML Diagrams directory. Due to the complexity of parts of our code, we used
 Visual Paradigm to generate these diagrams from our Java code. As a result, the diagrams have Visual Paradigm
 watermarks on them, but are still perfectly legible. If you want to look at them, some of our systems are quite large,
 and you will need to be able to scroll in to actually read text.
@@ -16,4 +16,5 @@ statistics.
 Note also that Guess the Number & Cows and Bulls track score in such a way that the smallest score is best, and their
 score leaderboards are sorted accordingly.
 
-The source code for our game can be found in
+The packades for our game can be found in first-android-app/Game/app/src/main/java/com/example/game, and the actual code can be found within these packages/subpackages. 
+
