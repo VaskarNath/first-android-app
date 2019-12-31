@@ -18,3 +18,5 @@ score leaderboards are sorted accordingly.
 
 The packades for our game can be found in first-android-app/Game/app/src/main/java/com/example/game, and the actual code can be found within these packages/subpackages. 
 
+Name of Group Members: Alexandra Tran, Lukas Willsie, Peter Potaptchik, and Valeirie 
+
